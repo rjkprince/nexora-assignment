@@ -1,6 +1,6 @@
 # Mock E-Com Cart
 
-A full-stack shopping cart application built with React (frontend) and Node.js/Express (backend) using SQLite for database persistence.
+A full-stack shopping cart application built with React (frontend) and Node.js/Express (backend) using MongoDB for database persistence.
 
 ## Features
 
@@ -15,7 +15,7 @@ A full-stack shopping cart application built with React (frontend) and Node.js/E
 
 - **Frontend:** React
 - **Backend:** Node.js, Express
-- **Database:** SQLite
+- **Database:** MongoDB
 - **APIs:** RESTful
 
 ## Setup
@@ -42,7 +42,10 @@ A full-stack shopping cart application built with React (frontend) and Node.js/E
 
 ## Screenshots
 
-(Add screenshots here)
+[!Screenshot1](/screenshots/Screenshot%20(5).png)
+[!Screenshot2](/screenshots/Screenshot%20(6).png)
+[!Screenshot3](/screenshots/Screenshot%20(7).png)
+[!Screenshot4](/screenshots/Screenshot%20(8).png)
 
 ## Deployment
 
