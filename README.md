@@ -42,10 +42,10 @@ A full-stack shopping cart application built with React (frontend) and Node.js/E
 
 ## Screenshots
 
-[!Screenshot1](/screenshots/Screenshot%20(5).png)
-[!Screenshot2](/screenshots/Screenshot%20(6).png)
-[!Screenshot3](/screenshots/Screenshot%20(7).png)
-[!Screenshot4](/screenshots/Screenshot%20(8).png)
+![Screenshot1](/screenshots/Screenshot%20(5).png)
+![Screenshot2](/screenshots/Screenshot%20(6).png)
+![Screenshot3](/screenshots/Screenshot%20(7).png)
+![Screenshot4](/screenshots/Screenshot%20(8).png)
 
 ## Deployment
 
