@@ -47,6 +47,3 @@ A full-stack shopping cart application built with React (frontend) and Node.js/E
 ![Screenshot3](/screenshots/Screenshot%20(7).png)
 ![Screenshot4](/screenshots/Screenshot%20(8).png)
 
-## Deployment
-
-Deploy backend and frontend separately. Update API URLs in frontend accordingly.
