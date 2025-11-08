@@ -87,9 +87,9 @@ function Cart({ cart, removeFromCart, setView }) {
     <div className="cart">
       <h2>Cart</h2>
       {cart.items.map(item => (
-        <div key={item.id} className="cart-item">
+        <div key={item._id} className="cart-item">
           <span>{item.name} - ${item.price} x {item.qty}</span>
-          <button onClick={() => removeFromCart(item.id)}>Remove</button>
+          <button onClick={() => removeFromCart(item._id)}>Remove</button>
         </div>
       ))}
       <p>Total: ${cart.total.toFixed(2)}</p>

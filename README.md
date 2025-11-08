@@ -47,3 +47,6 @@ A full-stack shopping cart application built with React (frontend) and Node.js/E
 ![Screenshot3](/screenshots/Screenshot%20(7).png)
 ![Screenshot4](/screenshots/Screenshot%20(8).png)
 
+##Demo Loom Recording
+
+![Demo](https://www.loom.com/share/563b6499fcf0420794e556156bd0aeaf)
